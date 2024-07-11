@@ -101,3 +101,29 @@ margin-right: 150px;
     
 
 }
+
+
+.icon1{
+    padding: 7px 38px;
+    width: 40px;
+}
+.iconbar{
+        display: flex;
+        justify-content: space-evenly;
+        
+
+}
+.icondesc{
+    
+    /* display: flex; */
+    /* justify-content: center; */
+    justify-content: center;
+    
+    
+
+}
+.icon2{
+    font-size: 17px;
+    padding: 0 30px;
+    
+}
